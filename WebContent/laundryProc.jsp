@@ -83,7 +83,7 @@ p{
 		 	<label>전화번호</label> <input type="number" name="phone" style="float:right; margin-right:10%; margin-top:2%;">
 		 </div>
 		 <div>
-		 	<label>세탁 시 참고사항</label> <br><textarea  rows="10" cols="80" name="note"></textarea>	
+		 	<label>세탁 시 참고사항</label> <br><textarea  rows="7" cols="70" name="note"></textarea>	
 		 </div> 
 		 <div>
 		 	<input type="submit" value="예약하기" id="l_reservation"> 
